@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a chatbot
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on, who knows?
@@ -11,3 +9,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: I don't take English Classes lmao
 - ⚡ Fun fact: I coded a new version of Alexa, Google Chrome, and an email creator with python under 100 lines of code
 -->
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
