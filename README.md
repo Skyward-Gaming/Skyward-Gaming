@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=Skyward-Gaming)
+
 - 🔭 I’m currently working on a chatbot
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on, who knows?
@@ -9,4 +11,3 @@
 - 😄 Pronouns: I don't take English Classes lmao
 - ⚡ Fun fact: I coded a new version of Alexa, Google Chrome, and an email creator with python under 100 lines of code
 -->
-![](https://img.shields.io/badge/<Python Code>-<Under 100 Lines :D>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
