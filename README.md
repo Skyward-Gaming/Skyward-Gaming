@@ -3,9 +3,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Skyward-Gaming)
 
 - 🔭 I’m currently working on a new game
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning discord,js
 - 👯 I’m looking to collaborate on, who knows?
-- 🤔 I’m looking for help with creating a rpg with Java
+- 🤔 I’m looking for help with creating a pokemon bot with discord.js or discord.py
 - 💬 Ask me about why I exist, maybe not :\
 - 📫 How to reach me: just dm me on discord for support : Skyward#3664
 - 😄 Pronouns: I don't take English Classes lmao
